@@ -1,2 +1,0 @@
-# GrecoAndHughes
-For Assignments
